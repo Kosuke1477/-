@@ -39,7 +39,7 @@ body {
 }
 
 .posts .post .title {
-  font-size: 1.2em;
+  font-size: 10em;
   font-weight: bold;
 }
 
@@ -48,6 +48,6 @@ body {
 }
 
 .posts .post .image img {
-  width: 250px;
+  width: 400px;
 }
 

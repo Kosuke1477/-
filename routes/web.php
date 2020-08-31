@@ -29,6 +29,7 @@ Route::group(['prefix' => 'admin'], function() {
 });
 
 
+
 Route::group(['prefix' => 'XXX'], function() {
     Route::get('news/create', 'XXX\AAAController@bbb');
 
